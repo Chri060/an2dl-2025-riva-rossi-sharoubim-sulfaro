@@ -23,7 +23,7 @@ Both projects are implemented as Python notebooks and can be run either locally 
 To set up the environment locally, clone the repository:
 ```bash
 git clone https://github.com/Chri060/an2dl-2025-riva-rossi-sharoubim-sulfaro
-cd your-repo
+cd an2dl-2025-riva-rossi-sharoubim-sulfaro
 ```
 If you prefer using conda, you can create and activate a new environment:
 ```bash
